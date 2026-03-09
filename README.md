@@ -1,16 +1,22 @@
-<!-- Banner com animação -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+Vivian+Oliveira;Cientista+de+Dados;Machine+Learning+%7C+IA+%7C+Analytics;Transformando+dados+em+decisões" />
-</h1>
+<!-- Header animado -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Vivian%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Cientista+de+Dados;Machine+Learning+%7C+Analytics;Transformando+dados+em+decisões" />
+
+</h2>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
 🎯 Cientista de Dados focada em **transformar dados em inteligência estratégica**.  
 📊 Experiência em **análise exploratória, modelagem preditiva e machine learning**.  
-🤖 Desenvolvendo soluções baseadas em **IA, automação e analytics para negócios**.  
-🚀 Interesse especial em **aplicações de dados para tomada de decisão e eficiência operacional**.
+🤖 Desenvolvimento de soluções baseadas em **dados, automação e inteligência analítica**.  
+🚀 Interesse em **analytics aplicado a negócios e tomada de decisão baseada em dados**.
 
 ---
 
@@ -41,15 +47,10 @@
 - Regressão
 - Feature Engineering
 
-🧮 **Estatística & Matemática**
+🧮 **Estatística**
 - Probabilidade
 - Inferência Estatística
 - Testes de Hipótese
-
-⚙ **Engenharia e Automação de Dados**
-- ETL
-- APIs
-- Automação de fluxos de dados
 
 ---
 
@@ -57,35 +58,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=python,sql,git,vscode"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws" />
-
-</p>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Atividade no GitHub
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
@@ -94,10 +73,10 @@
 ## 🚀 Áreas de Interesse
 
 - Inteligência Artificial
-- Machine Learning aplicado a negócios
-- Data Engineering
-- Automação e IA para tomada de decisão
-- Analytics estratégico
+- Machine Learning
+- Data Analytics
+- Business Intelligence
+- Automação com dados
 
 ---
 
@@ -124,10 +103,8 @@
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-</p>
+<!-- Footer animado -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=120&section=footer"/>
 </p>
