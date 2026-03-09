@@ -1,13 +1,13 @@
 <!-- Banner com animação -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+Rafael+Pacheco;Cientista+de+Dados;Machine+Learning+%7C+IA+%7C+Analytics;Transformando+dados+em+decisões" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+Vivian+Oliveira;Cientista+de+Dados;Machine+Learning+%7C+IA+%7C+Analytics;Transformando+dados+em+decisões" />
 </h1>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎯 Cientista de Dados focado em **transformar dados em inteligência estratégica**.  
+🎯 Cientista de Dados focada em **transformar dados em inteligência estratégica**.  
 📊 Experiência em **análise exploratória, modelagem preditiva e machine learning**.  
 🤖 Desenvolvendo soluções baseadas em **IA, automação e analytics para negócios**.  
 🚀 Interesse especial em **aplicações de dados para tomada de decisão e eficiência operacional**.
@@ -123,6 +123,10 @@
 > O valor surge quando transformamos dados em **insights acionáveis**."
 
 ---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
