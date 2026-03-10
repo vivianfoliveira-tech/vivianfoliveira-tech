@@ -11,12 +11,14 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+👩‍💻 Um pouco sobre mim
 
-🎯 Cientista de Dados focada em **transformar dados em inteligência estratégica**.  
-📊 Experiência em **análise exploratória, modelagem preditiva e machine learning**.  
-🤖 Desenvolvimento de soluções baseadas em **dados, automação e inteligência analítica**.  
-🚀 Interesse em **analytics aplicado a negócios e tomada de decisão baseada em dados**.
+Oi! Sou Cientista de Dados e minha motivação é traduzir grandes volumes de informação em caminhos estratégicos. Não olho apenas para os números; busco o que eles dizem sobre o futuro do negócio.
+No dia a dia, foco em:
+
+* Transformar caos em clareza através de análise exploratória e modelagem preditiva.
+* Criar inteligência desenvolvendo soluções de Machine Learning e automação.
+* Gerar impacto unindo tecnologia e visão de negócios para facilitar a tomada de decisão.
 
 ---
 
@@ -34,23 +36,11 @@
 
 ---
 
-## 🧠 Competências principais
+🧠 O que eu trago na bagagem
 
-📊 **Análise de Dados**
-- Data Cleaning
-- Data Visualization
-- Análise Exploratória
-
-🤖 **Machine Learning**
-- Modelagem preditiva
-- Classificação
-- Regressão
-- Feature Engineering
-
-🧮 **Estatística**
-- Probabilidade
-- Inferência Estatística
-- Testes de Hipótese
+📊 Análise de Dados: Adoro a parte de "investigação". Cuido de todo o ciclo, desde o Cleaning (preparação minuciosa) até a Visualização e Análise Exploratória para extrair os primeiros insights valiosos.
+🤖 Machine Learning: Meu foco é construir modelos que funcionem na prática. Trabalho com Modelagem Preditiva, Classificação e Regressão, sempre dando uma atenção especial à Feature Engineering para garantir a melhor performance.
+🧮 Estatística: É a base de tudo. Utilizo Probabilidade, Inferência e Testes de Hipótese para garantir que as descobertas sejam sólidas e as decisões, seguras.
 
 ---
 
@@ -70,13 +60,15 @@
 
 ---
 
-## 🚀 Áreas de Interesse
+🚀 O que faz meus olhos brilharem:
 
-- Inteligência Artificial
-- Machine Learning
-- Data Analytics
-- Business Intelligence
-- Automação com dados
+Sempre busco projetos que me desafiem e permitam explorar novas fronteiras tecnológicas. Atualmente, meus interesses estão voltados para:
+
+* IA e Machine Learning: Onde a mágica acontece. Adoro criar modelos que aprendem e evoluem com o tempo.
+* Data Analytics & BI: Transformar dados brutos em dashboards e insights que contam uma história clara para o negócio.
+* Automação: Se é repetitivo, pode ser automatizado. Foco em criar fluxos inteligentes que economizam tempo e evitam erros.
+* Estratégia: Unir todas essas peças para gerar valor real e impacto direto na tomada de decisão.
+
 
 ---
 
