@@ -11,7 +11,7 @@
 
 ---
 
-👩‍💻 Um pouco sobre mim
+### <img src="https://raw.githubusercontent.com" width="22"> Um pouco sobre mim
 
 Oi! Sou Cientista de Dados e minha motivação é traduzir grandes volumes de informação em caminhos estratégicos. Não olho apenas para os números; busco o que eles dizem sobre o futuro do negócio.
 No dia a dia, foco em:
@@ -36,13 +36,13 @@ No dia a dia, foco em:
 
 ---
 
-🧠 O que eu trago na bagagem
+⚡ O que eu trago na bagagem
 
-📊 Análise de Dados: Adoro a parte de "investigação". Cuido de todo o ciclo, desde o Cleaning (preparação minuciosa) até a Visualização e Análise Exploratória para extrair os primeiros insights valiosos.
+🔎 Análise de Dados: Adoro a parte de "investigação". Cuido de todo o ciclo, desde o Cleaning (preparação minuciosa) até a Visualização e Análise Exploratória para extrair os primeiros insights valiosos.
 
-🤖 Machine Learning: Meu foco é construir modelos que funcionem na prática. Trabalho com Modelagem Preditiva, Classificação e Regressão, sempre dando uma atenção especial à Feature Engineering para garantir a melhor performance.
+🔧 Tecnologias e Ferramentas: Meu foco é construir modelos que funcionem na prática. Trabalho com Modelagem Preditiva, Classificação e Regressão, sempre dando uma atenção especial à Feature Engineering para garantir a melhor performance.
 
-🧮 Estatística: É a base de tudo. Utilizo Probabilidade, Inferência e Testes de Hipótese para garantir que as descobertas sejam sólidas e as decisões, seguras.
+📐 Estatística: É a base de tudo. Utilizo Probabilidade, Inferência e Testes de Hipótese para garantir que as descobertas sejam sólidas e as decisões, seguras.
 
 ---
 
