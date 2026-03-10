@@ -90,7 +90,7 @@ Sempre busco projetos que me desafiem e permitam explorar novas fronteiras tecno
 
 ---
 
-## 🧩 Filosofia de trabalho
+## <img src="https://raw.githubusercontent.com" width="22"> Filosofia de trabalho
 
 > "Dados por si só não têm valor.  
 > O valor surge quando transformamos dados em **insights acionáveis**."
