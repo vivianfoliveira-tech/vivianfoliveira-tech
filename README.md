@@ -11,7 +11,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com" width="22"> Um pouco sobre mim
+### ✨ Um pouco sobre mim
 
 Oi! Sou Cientista de Dados e minha motivação é traduzir grandes volumes de informação em caminhos estratégicos. Não olho apenas para os números; busco o que eles dizem sobre o futuro do negócio.
 No dia a dia, foco em:
@@ -90,7 +90,7 @@ Sempre busco projetos que me desafiem e permitam explorar novas fronteiras tecno
 
 ---
 
-## <img src="https://raw.githubusercontent.com" width="22"> Filosofia de trabalho
+## 🧩 Filosofia de trabalho
 
 > "Dados por si só não têm valor.  
 > O valor surge quando transformamos dados em **insights acionáveis**."
